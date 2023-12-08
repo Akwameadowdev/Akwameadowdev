@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akwameadowdev
-- 👀 I’m interested in web development
+- 👀 I’m interested in Cybersecurity and web development
 - 🌱 I’m currently learning Html, CSS, Javascript and Reactjs
 - 💞️ I’m looking to collaborate and give my inputs on web and software development problems
 - 📫 How to reach me: @akwameadow on social media platforms
